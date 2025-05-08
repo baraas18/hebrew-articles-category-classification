@@ -1,1 +1,1 @@
-# Hebrew-Articles-Category-Classification
+# hebrew-articles-category-classification
